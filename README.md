@@ -5,10 +5,14 @@ A simple and elegant weather portal that displays real-time weather information 
 ## 📁 Project Structure
 
   weather-portal/
+  
 │
 ├── index.html         # Main HTML file
+
 ├── style.css          # Stylesheet
+
 ├── script.js          # JavaScript for weather fetching
+
 ├── README.md          # Project documentation
 
 ## 🚀 Features
