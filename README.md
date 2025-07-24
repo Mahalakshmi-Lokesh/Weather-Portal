@@ -54,5 +54,7 @@ A simple and elegant weather portal that displays real-time weather information 
 5. Make sure you have an active internet connection for API calls
 
 
+## 📸 Screenshot
 
+![Weather App Screenshot](screenshot.png)
 
