@@ -58,9 +58,7 @@ A simple and elegant weather portal that displays real-time weather information 
 
 A sleek weather application displaying real-time weather data.
 
-## 🌤️ Weather Portal UI
-
-![Weather UI](assets/ui.png)
+![Weather UI](assets/Weather-UI.png)
 
 
 
