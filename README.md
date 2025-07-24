@@ -38,15 +38,16 @@ A simple and elegant weather portal that displays real-time weather information 
 1. **Clone the repository**:
 
    git clone https://github.com/yourusername/weather-portal.git
+   
    cd weather-portal
 
-2. Open script.js and replace:
+3. Open script.js and replace:
 
-  const API_KEY = "your api key";
+   const API_KEY = "your api key";
 
-3. Open `index.html` in your browser
+4. Open `index.html` in your browser
   
-4. Make sure you have an active internet connection for API calls
+5. Make sure you have an active internet connection for API calls
 
 
 
