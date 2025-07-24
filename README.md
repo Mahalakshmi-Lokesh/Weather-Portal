@@ -6,7 +6,7 @@ A simple and elegant weather portal that displays real-time weather information 
 
   weather-portal/
   
-│
+
 ├── index.html         # Main HTML file
 
 ├── style.css          # Stylesheet
@@ -39,7 +39,7 @@ A simple and elegant weather portal that displays real-time weather information 
 
 ## 📦 Setup Instructions
 
-1. **Clone the repository**:
+1. Clone the repository:
 
    git clone https://github.com/yourusername/weather-portal.git
    
