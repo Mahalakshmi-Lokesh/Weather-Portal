@@ -7,13 +7,13 @@ A simple and elegant weather portal that displays real-time weather information 
   weather-portal/
   
 
-├── index.html         # Main HTML file
+├── index.html           # Main HTML file
 
-├── style.css          # Stylesheet
+├── style.css            # Stylesheet
 
-├── script.js          # JavaScript for weather fetching
+├── script.js            # JavaScript for weather fetching
 
-├── README.md          # Project documentation
+├── README.md            # Project documentation
 
 ## 🚀 Features
 
