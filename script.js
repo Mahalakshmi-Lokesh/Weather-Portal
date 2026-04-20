@@ -1,4 +1,4 @@
-const API_KEY = "Your API_KEY"; // Replace with your API key
+const API_KEY = "2e842a1556cbcd538e9f7fbb60ce937f"; // Replace with your API key
 const cities = [
   { name: "New Delhi", country: "INDIA" },
   { name: "Washington", country: "USA" },
